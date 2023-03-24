@@ -15,7 +15,7 @@
     "php": ">=5.4.0",
     "yiisoft/yii2": ">=2.0.0",
     "maxmind-db/reader": "~1.0",
-    "mastertoan/maxmind-geolite2-database": "*"
+    "mastertoan/maxmind-geolite2-database": "dev-main"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.4"
